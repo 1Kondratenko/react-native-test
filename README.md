@@ -2,7 +2,15 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+So here is the guide how to run app on ios and android devices:
+
+1.  You need to clone repository into your folder
+2.  After that check if you are in folder reactNativeTest
+3.  Then install dependencies with "yarn" command
+4.  After that "cd ios && pod install" commands
+5.  Return to reactNativeTest folder with "cd .." and then write run ios
+
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
